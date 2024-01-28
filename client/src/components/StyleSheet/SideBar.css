@@ -1,0 +1,16 @@
+.SideBar__container {
+  flex: 0.2;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+}
+.SideBar__HomeIcon {
+  margin-bottom: 1.5rem;
+  margin-left: 0.5rem;
+}
+.SideBar__twiterIcon {
+  color: skyblue;
+}
+.SideBar {
+  margin-left: 0.5rem;
+}

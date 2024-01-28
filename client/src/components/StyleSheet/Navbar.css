@@ -1,0 +1,18 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+nav h1 {
+  margin: 1rem;
+}
+nav ul {
+  display: flex;
+}
+nav li {
+  color: skyblue;
+  margin: 1rem;
+}
+nav a {
+  text-decoration: none;
+  color: rgb(0, 149, 255);
+}

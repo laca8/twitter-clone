@@ -1,0 +1,35 @@
+.TweetBox__container {
+  display: flex;
+  flex-direction: column;
+  padding-left: 1.5rem;
+  border-bottom: 2px solid grey;
+}
+.TweetBox__title {
+  border-bottom: 2px solid beige;
+}
+.TweetBox {
+  display: flex;
+  align-items: center;
+  border: none;
+  margin-top: 1em;
+}
+.TweetBox > input {
+  border: none;
+  border-bottom: 2px solid black;
+  font-size: 1.2rem;
+  margin-left: 0.5em;
+}
+.Tweet__fileUpload {
+  margin-top: 1em;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+}
+.Tweet__Button > button {
+  border-radius: 999px;
+  background-color: skyblue;
+  color: #fff;
+  padding: 0.5em 2em;
+  font-weight: bolder;
+  border: none;
+}

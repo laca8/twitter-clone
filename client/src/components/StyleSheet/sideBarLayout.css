@@ -1,0 +1,15 @@
+.SideBar__Layout {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.5rem;
+  margin-left: 0.5rem;
+}
+.SideBar__layoutText {
+  padding: 0.5rem 0.5rem;
+}
+.SideBar__Layout:hover {
+  background-color: skyblue;
+  border-radius: 999px;
+  width: 140px;
+  color: blue;
+}
